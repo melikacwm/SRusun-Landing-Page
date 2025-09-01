@@ -10,3 +10,7 @@
     height: 450px;       /* semua gambar sama tinggi */
     object-fit: cover;   /* biar gambar proporsional, bagian lebih dipotong */
   }
+
+.bg-srusun-kuning{
+    background-color: #d38b44;
+}
