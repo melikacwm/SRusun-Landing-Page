@@ -1,0 +1,12 @@
+.bg-srusun{
+    background-color: #aa2630;
+}
+  .fixed-img {
+    height:350px;        /* semua gambar tinggi sama */
+    object-fit: cover;    /* gambar dipotong proporsional */
+  }
+
+  .team-img {
+    height: 450px;       /* semua gambar sama tinggi */
+    object-fit: cover;   /* biar gambar proporsional, bagian lebih dipotong */
+  }
