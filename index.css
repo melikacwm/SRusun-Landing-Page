@@ -18,3 +18,7 @@
 .bg-footer-gray {
   background-color: #a9a9a9; /* abu-abu muda agak gelap */
 }
+
+.little-right {
+  margin-right: 5px; /* jarak kecil di kanan */
+}
